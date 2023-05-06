@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="300" height="300" src="https://github.com/kalebC/Servidor-Linux/blob/main/images/triangle.gif">
-</p>
-
 <img align="center" width="300" height="300" src="https://github.com/kalebC/Servidor-Linux/blob/main/images/triangle.gif">
 
 # Introdução
